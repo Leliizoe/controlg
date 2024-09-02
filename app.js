@@ -7,6 +7,7 @@ var divGastos=document.querySelector('#divGastos');
 var progress=document.querySelector("#progress");
 var tGastos=0;
 
+
 var disponible=0;
 
 const inicio=()=>{
